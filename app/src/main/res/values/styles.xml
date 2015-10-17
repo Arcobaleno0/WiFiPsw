@@ -1,0 +1,28 @@
+<resources>
+
+     <!--Base application theme.-->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:colorAccent">#FF4081</item>
+    </style>
+
+    <style name="MenuLine">
+        <item name="android:background">#ffd6d9df</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+
+    <!--<style name="AppTheme" parent="android:Material.Dark">-->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <!--<item name="android:colorPrimary">@color/primary</item>-->
+        <!--<item name="android:colorPrimaryDark">@color/primary_dark</item>-->
+    <!--</style>-->
+    <color name="primary">#DA4336</color>
+    <color name="primary_dark">#B93221</color>
+    <!--<style name="MyNavigationDrawerTheme" parent="MaterialNavigationDrawerTheme">-->
+        <!--<item name="colorPrimary">#6D84B0</item>-->
+        <!--<item name="colorPrimaryDark">#424E6A</item>-->
+        <!--<item name="colorAccent">#FFFFFF</item>-->
+    <!--</style>-->
+</resources>

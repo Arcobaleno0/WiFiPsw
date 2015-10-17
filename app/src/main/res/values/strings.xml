@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WiFi密码查看</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="unroot">You need to root your device to continute.</string>
+    <string name="unauth">You need to authorize this app.</string>
+    <string name="About">关于</string>
+    <string name="appName">WiFi密码查看</string>
+    <string name="appVersion">版本：1.04</string>
+    <string name="Reason">  因为蹭网的时候每次想在别的设备上共享网络都要手动点开文件才能查看WiFi密码，软件市场上的大部分都有广告，而且给了ROOT权限一个这样的软件觉得不太靠谱所以自己写了个简单的密码查看小工具。(･ิω･ิ)</string>
+    <string name="author">微博：@Nich</string>
+    <string name="github">Github：https://github.com/nichbar</string>
+    <string name="blog">Blog：inich.info</string>
+</resources>
