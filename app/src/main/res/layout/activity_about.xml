@@ -120,7 +120,7 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="@string/Reason"
                 android:id="@+id/textView2"
-                android:textSize="17sp"
+                android:textSize="18sp"
                 android:padding="8dp"
 
                 android:textColor="#373737"

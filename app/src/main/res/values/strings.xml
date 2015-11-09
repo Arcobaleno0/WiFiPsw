@@ -11,4 +11,5 @@
     <string name="author">微博：@Nich</string>
     <string name="github">Github：https://github.com/nichbar</string>
     <string name="blog">Blog：inich.info</string>
+    <string name="appURL">"http://inich.info/2015/10/17/wifipasswordtool/"</string>
 </resources>
