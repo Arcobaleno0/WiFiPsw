@@ -8,7 +8,7 @@
 点开就能用了， ʅ(‾◡◝)ʃ )...分享WiFi,轻点复制到粘贴板。
 
 ###apk下载：
-####[直接下载](http://pre.im/gankio11)
+####    [下载](pre.im/72e1)
 
 ###感谢：
 [cmf1120](https://github.com/cfm1120/seepwd)
