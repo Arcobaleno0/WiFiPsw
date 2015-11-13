@@ -23,9 +23,6 @@ public class WifiAdapter extends BaseAdapter {
         mContext = context;
     }
 
-//    public WifiAdapter(List<WiFi> arrayList) {
-//        dataList = arrayList;
-//    }
     @Override
     public int getCount() {
         return dataList.size();

@@ -9,8 +9,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toolbar;
 
-import info.nich.visiblewifipsw.R;
-
 public class AboutActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
