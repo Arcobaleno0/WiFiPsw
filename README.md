@@ -9,7 +9,7 @@
 长按分享WiFi,轻点复制到粘贴板。
 
 ###apk下载：
-####[下载](pre.im/72e1)
+####[下载](http://pre.im/72e1)
 
 ###感谢：
 [cmf1120](https://github.com/cfm1120/seepwd)
